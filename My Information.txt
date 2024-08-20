@@ -1,0 +1,8 @@
+Name: Lajara, Paolo B.
+CYS: BSCS 2F
+Course: Bachelor of Science in Computer Science 
+Instructor: Engr. Eugene Fortunado
+Age: 19
+Address: Brgy. Adya Lipa City, Batangas
+Contact Number: 09708129805
+Email Address: paoloblajara@gmail.com
